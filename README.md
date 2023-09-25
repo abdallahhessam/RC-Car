@@ -45,6 +45,6 @@ This project is licensed under the [MIT License](LICENSE.md), which means you ar
 
 ## Contact
 
-If you have any questions, issues, or suggestions, feel free to reach out to us through the [GitHub Issues](https://github.com/abdallahhessam/rc-car/issues) or [Discussions](https://github.com/abdallahhessam/rc-car/discussions) section of this repository.
+If you have any questions, issues, or suggestions, feel free to reach out to us through the [GitHub Issues](https://github.com/abdallahhessam/rc-car/issues) section of this repository.
 
 We hope you enjoy building and experimenting with your very own RC car powered by STM32 ARM and modern C++!
