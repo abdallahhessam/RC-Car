@@ -39,9 +39,6 @@ Welcome to the RC Car project repository! This project showcases the development
 
 Contributions to this project are welcome! Whether you want to enhance the software, improve the hardware design, or suggest new features, we encourage you to get involved. Please review our contribution guidelines for more information.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md), which means you are free to use, modify, and distribute the code for your own purposes.
 
 ## Contact
 
